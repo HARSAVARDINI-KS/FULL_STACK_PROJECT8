@@ -1,0 +1,9 @@
+INSERT INTO Customer VALUES
+(1, 'Ravi Kumar', 'Chennai', '9876543210', 'ravi@gmail.com'),
+(2, 'Priya Sharma', 'Bangalore', '8765432109', 'priya@gmail.com'),
+(3, 'Amit Verma', 'Chennai', '7654321098', 'amit@gmail.com');
+
+INSERT INTO Employee VALUES
+(101, 'Suresh Iyer', 'Sales', 'Chennai', 45000),
+(102, 'Anita Nair', 'HR', 'Bangalore', 50000),
+(103, 'Vikas Gupta', 'IT', 'Chennai', 60000);
