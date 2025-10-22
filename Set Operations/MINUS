@@ -1,0 +1,3 @@
+SELECT City FROM Customer
+MINUS
+SELECT City FROM Employee;
