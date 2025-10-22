@@ -1,0 +1,3 @@
+SELECT City FROM Customer
+UNION ALL
+SELECT City FROM Employee;
