@@ -1,0 +1,3 @@
+SELECT C.Cust_Name, E.Emp_Name, C.City
+FROM Customer C
+INNER JOIN Employee E ON C.City = E.City;
