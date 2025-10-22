@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT ON Customer TO user1;
