@@ -1,0 +1,2 @@
+UPDATE Customer SET City = 'Hyderabad' WHERE Cust_ID = 3;
+UPDATE Employee SET Salary = Salary + 5000 WHERE Department = 'Sales';
