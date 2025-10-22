@@ -1,0 +1,3 @@
+SELECT C.Cust_Name, E.Emp_Name, E.City
+FROM Customer C
+RIGHT JOIN Employee E ON C.City = E.City;
