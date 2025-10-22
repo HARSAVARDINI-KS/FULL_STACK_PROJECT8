@@ -1,0 +1,2 @@
+ALTER TABLE Customer ADD Email VARCHAR(100);
+ALTER TABLE Employee ADD Salary DECIMAL(10,2);
