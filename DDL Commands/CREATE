@@ -1,0 +1,13 @@
+CREATE TABLE Customer (
+    Cust_ID INT PRIMARY KEY,
+    Cust_Name VARCHAR(50),
+    City VARCHAR(50),
+    Phone VARCHAR(15)
+);
+
+CREATE TABLE Employee (
+    Emp_ID INT PRIMARY KEY,
+    Emp_Name VARCHAR(50),
+    Department VARCHAR(50),
+    City VARCHAR(50)
+);
